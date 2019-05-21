@@ -6,7 +6,14 @@
 
     <groupId>BigIdea</groupId>
     <artifactId>Big Idea Pokemon Battle simulator</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Domain</module>
+        <module>GameServer</module>
+        <module>Application</module>
+        <module>RestServer</module>
+    </modules>
 
 
 </project>
