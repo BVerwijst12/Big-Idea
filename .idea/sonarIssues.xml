@@ -33,12 +33,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/Elo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/Game.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/GameServer/src/main/java/GameService.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/Player.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/PlayerCollectiom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/PlayerCollection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/GameServer/src/main/java/PlayerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/Pokemon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/PokemonService.java">
           <value>
             <set />
           </value>

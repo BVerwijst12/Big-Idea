@@ -23,6 +23,7 @@ public class Pokemon {
         this.speed = speed;
         this.moveSet = moveSet;
         this.type = type;
+        isFainted = false;
     }
 
     public String getName() {
@@ -63,5 +64,17 @@ public class Pokemon {
 
     public Type getType() {
         return type;
+    }
+
+
+    public boolean hasFainted(){
+        if (healthPoints <= 0){
+            return isFainted;
+        }
+        return !isFainted;
+    }
+
+    public void removeHP(int damage){
+        healthPoints = healthPoints - damage;
     }
 }
