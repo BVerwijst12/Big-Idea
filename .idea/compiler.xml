@@ -12,5 +12,8 @@
         <module name="RestServer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GameServer" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

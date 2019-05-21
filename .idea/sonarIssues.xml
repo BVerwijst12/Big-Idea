@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/Application/src/main/java/Game.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Domain/src/main/java/Game.java">
           <value>
             <set />
@@ -28,7 +33,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/GameService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/PlayerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/Services/GameService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/GameServer/src/main/java/Services/PlayerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/LoginApi/src/main/java/dal/PlayerMemoryContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/communicatorserver/src/main/java/communicatorserver/CommunicatorServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/communicatorserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/dal/PlayerApiContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/logic/Interfaces/IPlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/logic/Player.java">
           <value>
             <set />
           </value>

@@ -13,6 +13,7 @@
         <module>GameServer</module>
         <module>Application</module>
         <module>RestServer</module>
+        <module>GameServer</module>
     </modules>
 
 
