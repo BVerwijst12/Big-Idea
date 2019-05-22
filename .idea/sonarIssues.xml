@@ -88,6 +88,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/RestServer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/LoginApi/src/main/java/dal/PlayerMemoryContext.java">
           <value>
             <set />

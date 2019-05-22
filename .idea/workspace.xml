@@ -2,25 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ca6541-e7ed-41ef-a8a2-a8381d6a44ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameServer/src/main/java/Elo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameServer/src/main/java/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameServer/src/main/java/PlayerCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eaacad782065f8ccaf50cb151653e28104812c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b5618abb8c700551796d73e955c31021b47e2f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3accb221815d744b536d03db990ab6e7231a072" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa0814147eb6cdec8cf7a73effcb168d7221050d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3fc92665c9f06098fe4b20de28df1741370a346" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc81838317e00ff6ec4ce780d24de7b0d1c18ee9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d10a9ad6a5feff6d13d053d308ae00c417a7b862" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2c1d9402ccaf6fccc88ab6d9bd9d09e71199312" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/main/java/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/java/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/Domain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/src/main/java/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/src/main/java/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer/src/main/java/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer/src/main/java/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/src/main/java/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer/src/main/java/Pokemon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/src/main/java/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer/src/main/java/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameServer/GameServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer/GameServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameServer/src/main/java/GameService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameServer/src/main/java/PlayerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,31 +35,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Pokemon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1309">
+            <state relative-caret-position="952">
               <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
               <folding>
-                <element signature="e#817#818#0" expanded="true" />
                 <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#915#916#0" expanded="true" />
-                <element signature="e#945#946#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
-                <element signature="e#1098#1099#0" expanded="true" />
-                <element signature="e#1131#1132#0" expanded="true" />
-                <element signature="e#1163#1164#0" expanded="true" />
-                <element signature="e#1192#1193#0" expanded="true" />
-                <element signature="e#1220#1221#0" expanded="true" />
-                <element signature="e#1254#1255#0" expanded="true" />
-                <element signature="e#1286#1287#0" expanded="true" />
-                <element signature="e#1329#1330#0" expanded="true" />
-                <element signature="e#1359#1360#0" expanded="true" />
-                <element signature="e#1388#1389#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
                 <element signature="e#1415#1416#0" expanded="true" />
-                <element signature="e#1625#1626#0" expanded="true" />
-                <element signature="e#1676#1677#0" expanded="true" />
+                <element signature="e#1442#1443#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
+            <state relative-caret-position="1071">
               <caret line="73" selection-start-line="73" selection-end-line="73" />
               <folding>
                 <element signature="e#408#409#0" expanded="true" />
@@ -87,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/PlayerCollection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -96,10 +71,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RestServer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
+            <state relative-caret-position="544">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -166,6 +150,7 @@
         <option value="$PROJECT_DIR$/GameServer/src/main/java/PlayerCollectiom.java" />
         <option value="$PROJECT_DIR$/GameServer/src/main/java/Player.java" />
         <option value="$PROJECT_DIR$/GameServer/src/main/java/PlayerCollection.java" />
+        <option value="$PROJECT_DIR$/RestServer/pom.xml" />
       </list>
     </option>
   </component>
@@ -177,8 +162,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="571" />
-    <option name="y" value="-10" />
+    <option name="x" value="715" />
     <option name="width" value="1210" />
     <option name="height" value="525" />
   </component>
@@ -190,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,60 +185,12 @@
             <path>
               <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="Application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="Application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="Application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="Application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -261,7 +198,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../BigIdeaAlgoritme" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SE3PetStoreRESTExample-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -297,23 +234,26 @@
       <updated>1558427374969</updated>
       <workItem from="1558427376088" duration="4510000" />
       <workItem from="1558436763407" duration="3984000" />
+      <workItem from="1558516631954" duration="1473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8494000" />
+    <option name="totallyTimeSpent" value="9967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -343,17 +283,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Domain/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/pom.xml" />
     <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Infrastructure.java" />
-    <entry file="file://$PROJECT_DIR$/RestServer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -384,27 +315,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/PlayerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/GameService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/PokemonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/PlayerService.java" />
+    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/GameService.java" />
+    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/PokemonService.java" />
     <entry file="file://$PROJECT_DIR$/Application/src/main/java/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -414,31 +327,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Pokemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
+        <state relative-caret-position="952">
           <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
           <folding>
-            <element signature="e#817#818#0" expanded="true" />
             <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#945#946#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-            <element signature="e#1131#1132#0" expanded="true" />
-            <element signature="e#1163#1164#0" expanded="true" />
-            <element signature="e#1192#1193#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
-            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
             <element signature="e#1415#1416#0" expanded="true" />
-            <element signature="e#1625#1626#0" expanded="true" />
-            <element signature="e#1676#1677#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="e#1841#1842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -465,33 +383,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#1802#1803#0" expanded="true" />
-            <element signature="e#1841#1842#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GameServer/src/main/java/PlayerCollection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
         </state>
       </provider>
     </entry>
