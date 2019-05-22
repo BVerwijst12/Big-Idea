@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ca6541-e7ed-41ef-a8a2-a8381d6a44ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RestServer/src/main/java/DAL/DbConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestServer/src/main/java/DAL/MySqlContext/UserMySqlContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestServer/src/main/java/RestApi/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eaacad782065f8ccaf50cb151653e28104812c4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b5618abb8c700551796d73e955c31021b47e2f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3accb221815d744b536d03db990ab6e7231a072" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa0814147eb6cdec8cf7a73effcb168d7221050d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3fc92665c9f06098fe4b20de28df1741370a346" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc81838317e00ff6ec4ce780d24de7b0d1c18ee9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d10a9ad6a5feff6d13d053d308ae00c417a7b862" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2c1d9402ccaf6fccc88ab6d9bd9d09e71199312" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestServer/src/main/java/RestTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,11 +66,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RestServer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
               <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestServer/src/main/java/RestApi/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestServer/src/main/java/DAL/DbConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RestServer/src/main/java/DAL/MySqlContext/UserMySqlContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -151,6 +180,11 @@
         <option value="$PROJECT_DIR$/GameServer/src/main/java/Player.java" />
         <option value="$PROJECT_DIR$/GameServer/src/main/java/PlayerCollection.java" />
         <option value="$PROJECT_DIR$/RestServer/pom.xml" />
+        <option value="$PROJECT_DIR$/RestServer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/RestServer/src/main/java/RestApi/UserService.java" />
+        <option value="$PROJECT_DIR$/RestServer/src/main/java/DAL/UserMySqlContext.java" />
+        <option value="$PROJECT_DIR$/RestServer/src/main/java/DAL/ConnectionString.java" />
+        <option value="$PROJECT_DIR$/RestServer/src/main/java/DAL/MySqlContext/UserMySqlContext.java" />
       </list>
     </option>
   </component>
@@ -162,9 +196,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="715" />
-    <option name="width" value="1210" />
-    <option name="height" value="525" />
+    <option name="x" value="952" />
+    <option name="width" value="975" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -187,6 +221,55 @@
               <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
               <item name="RestServer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
+              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
+              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
+              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
+              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DAL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
+              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DAL" type="462c0819:PsiDirectoryNode" />
+              <item name="MySqlContext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
+              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RestApi" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -198,7 +281,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SE3PetStoreRESTExample-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../scimpo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -234,12 +317,12 @@
       <updated>1558427374969</updated>
       <workItem from="1558427376088" duration="4510000" />
       <workItem from="1558436763407" duration="3984000" />
-      <workItem from="1558516631954" duration="1473000" />
+      <workItem from="1558516631954" duration="4827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9967000" />
+    <option name="totallyTimeSpent" value="13321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -390,10 +473,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RestServer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RestServer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestServer/src/main/java/DAL/DbConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestServer/src/main/java/RestApi/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestServer/src/main/java/DAL/MySqlContext/UserMySqlContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>

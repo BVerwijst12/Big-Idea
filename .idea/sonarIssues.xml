@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Application/src/main/java/Game.java">
           <value>
             <set />
@@ -89,6 +94,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/RestServer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RestServer/src/main/java/DAL/ConnectionString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RestServer/src/main/java/DAL/DbConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RestServer/src/main/java/DAL/MySqlContext/UserMySqlContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RestServer/src/main/java/DAL/UserMySqlContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RestServer/src/main/java/RestApi/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RestServer/src/main/resources/application.properties">
           <value>
             <set />
           </value>
