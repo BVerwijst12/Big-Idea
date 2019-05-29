@@ -14,6 +14,7 @@
         <module>Application</module>
         <module>RestServer</module>
         <module>GameServer</module>
+        <module>Domain</module>
     </modules>
 
     <properties>

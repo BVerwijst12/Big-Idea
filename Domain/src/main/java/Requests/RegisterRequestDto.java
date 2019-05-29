@@ -1,4 +1,4 @@
-package Requests;
+package java.Requests;
 
 public class RegisterRequestDto {
 
