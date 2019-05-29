@@ -1,0 +1,4 @@
+
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÕŠî‡ÿÿÿÿÿ8Ñƒµò¯-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÛáÿûÿÿÿÿ
+Gsquid:S1481")Remove this unused "body" local variable.(ôîþ±8ýž¾ò¯-

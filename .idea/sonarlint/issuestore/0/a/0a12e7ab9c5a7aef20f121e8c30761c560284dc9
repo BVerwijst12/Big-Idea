@@ -1,0 +1,9 @@
+
+csquid:UselessImportCheck"3Remove this unused import 'spark.route.HttpMethod'.(ÿŸïºüÿÿÿÿ8‰‰É®-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÛáÿûÿÿÿÿ
+Usquid:S1135"2Complete the task associated to this TODO comment.(ÚéòØÿÿÿÿÿ8¾ÀÉ®-
+bsquid:UselessImportCheck"7Remove this unused import 'javax.ws.rs.core.MediaType'.(œ±‹¡8ˆ‰É®-
+zsquid:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ8Øù˜É®-
+fsquid:UselessImportCheck"6Remove this unused import 'javax.ws.rs.core.Response'.(ˆäĞæüÿÿÿÿ8‰‰É®-
+Jsquid:S1481",Remove this unused "dtouser" local variable.(ıŞ«¶8à†É®-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÕŠî‡ÿÿÿÿÿ8Íéú­-

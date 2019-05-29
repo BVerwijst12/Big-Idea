@@ -16,6 +16,6 @@ public class UserService {
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
     public Response addUser(){
-
+        RegisterRequestDto dto = new RegisterRequestDto();
     }
 }
