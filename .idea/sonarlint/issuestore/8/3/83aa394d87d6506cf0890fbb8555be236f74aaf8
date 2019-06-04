@@ -1,10 +1,10 @@
 
-tsquid:S1450"WRemove the "isActive" field and declare it as a local variable in the relevant methods.(Ð·†x8ÎâÀÑ­-
-Ÿsquid:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’¼Ùî8ÅžÑÐ­-
-_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8±¢ƒÒ­-
-Ksquid:S1068"-Remove this unused "wonPlayer" private field.(„õ®â8¥•ÎÐ­-
-]squid:UnusedPrivateMethod",Remove this unused private "endGame" method.(âîúÖÿÿÿÿÿ8§‹ÀÑ­-
-Isquid:S1068",Remove this unused "isActive" private field.(Ð·†x8¸šÏÐ­-
-Fsquid:S1125"(Remove the literal "true" boolean value.(À€ßþ8§‹ÀÑ­-
-vsquid:S1450"XRemove the "wonPlayer" field and declare it as a local variable in the relevant methods.(„õ®â8°Ä»Ñ­-
-esquid:HiddenFieldCheck"<Rename "wonPlayer" which hides the field declared at line 6.(÷‡Ì÷8Íþ¶Ñ­-
+]squid:UnusedPrivateMethod",Remove this unused private "endGame" method.(âîúÖÿÿÿÿÿ8âŸä™°-
+Ksquid:S1068"-Remove this unused "wonPlayer" private field.(„õ®â8âŸä™°-
+Isquid:S1068",Remove this unused "isActive" private field.(Ð·†x8âŸä™°-
+vsquid:S1450"XRemove the "wonPlayer" field and declare it as a local variable in the relevant methods.(„õ®â8âŸä™°-
+tsquid:S1450"WRemove the "isActive" field and declare it as a local variable in the relevant methods.(Ð·†x8âŸä™°-
+Fsquid:S1125"(Remove the literal "true" boolean value.(À€ßþ8âŸä™°-
+esquid:HiddenFieldCheck"<Rename "wonPlayer" which hides the field declared at line 6.(÷‡Ì÷8âŸä™°-
+Ÿsquid:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’¼Ùî8âŸä™°-
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8âŸä™°-

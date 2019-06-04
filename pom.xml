@@ -15,6 +15,8 @@
         <module>RestServer</module>
         <module>GameServer</module>
         <module>Domain</module>
+        <module>WebSocketServer</module>
+        <module>WebSocketShared</module>
     </modules>
 
     <properties>

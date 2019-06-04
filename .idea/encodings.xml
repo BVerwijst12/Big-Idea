@@ -4,8 +4,10 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Application" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Domain" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Domain" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/GameServer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RestServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RestShared" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebSocketServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebSocketShared" charset="UTF-8" />
   </component>
 </project>

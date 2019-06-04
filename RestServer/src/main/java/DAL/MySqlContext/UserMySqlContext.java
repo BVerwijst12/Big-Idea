@@ -10,7 +10,7 @@ public class UserMySqlContext {
         connectionString = dbConfig.getConnectionstring();
     }
 
-    public void addUser(){
-
+    public boolean addUser(String Username, String Password){
+        return true;
     }
 }

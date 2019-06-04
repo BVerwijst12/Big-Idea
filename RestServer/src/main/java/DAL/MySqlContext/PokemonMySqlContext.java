@@ -2,6 +2,8 @@ package DAL.MySqlContext;
 
 import DAL.DbConfig;
 
+
+import java.Dto.PokemonDto;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -30,7 +32,9 @@ public class PokemonMySqlContext {
             ResultSet resultSet = preparedStmt.executeQuery();
 
             while (resultSet.next()){
-                PokemonDto pokemon = new PokemonDto();
+                PokemonDto pokemon = new PokemonDto(resultSet.getString(1), resultSet.getInt(2)
+                        , resultSet.getInt(3), resultSet.getInt(4), resultSet.getInt(5)
+                        , resultSet.getInt(6), resultSet.getInt(7));
                 allPokemons.add(pokemon);
             }
 

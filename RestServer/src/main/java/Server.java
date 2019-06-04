@@ -4,10 +4,9 @@ import spark.Spark;
 
 public class Server {
 
-
     public static void main(String[] args) {
         Spark.ipAddress("localhost");
-        new UserService();
-        new PokemonService();
+        UserService userService = new UserService();
+        PokemonService pokemonService = new PokemonService();
     }
 }
