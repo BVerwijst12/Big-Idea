@@ -1,0 +1,11 @@
+
+Fsquid:S1068"(Remove this unused "name" private field.(Λ¥Ό8Ϊλιρ―-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ8ΥΘκρ―-
+Fsquid:S1068")Remove this unused "speed" private field.(‡ΪΩ)8Ϊλιρ―-
+Msquid:S1068	"*Remove this unused "attack" private field.(Φζ‡νϋÿÿÿÿ8Ϊλιρ―-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ίμÿÿÿÿÿ
+Osquid:S1068
+",Remove this unused "spAttack" private field.(©Β™΅ÿÿÿÿÿ8Ϊλιρ―-
+Jsquid:S1068"-Remove this unused "spDefence" private field.(Ϊ§28Ϊλιρ―-
+Ssquid:S1068"0Remove this unused "healthPoints" private field.(ρ…ιΦύÿÿÿÿ8Ϊλιρ―-
+Isquid:S1068"+Remove this unused "defence" private field.(νΓφΎ8Ϊλιρ―-

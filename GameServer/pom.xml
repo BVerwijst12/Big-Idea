@@ -11,5 +11,8 @@
 
     <artifactId>GameServer</artifactId>
 
+    <dependencies>
+
+    </dependencies>
 
 </project>

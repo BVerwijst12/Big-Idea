@@ -1,0 +1,6 @@
+
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÕŠî‡ÿÿÿÿÿ8Íéú­-
+|squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(’Ááù8´ÙÌœ°-
+bsquid:UselessImportCheck"7Remove this unused import 'javax.ws.rs.core.MediaType'.(œ±‹¡8 íœ°-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÛáÿûÿÿÿÿ
+fsquid:UselessImportCheck"6Remove this unused import 'javax.ws.rs.core.Response'.(ˆäĞæüÿÿÿÿ8 íœ°-

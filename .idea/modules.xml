@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GameServer/GameServer.iml" filepath="$PROJECT_DIR$/GameServer/GameServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestShared/RestShared.iml" filepath="$PROJECT_DIR$/RestShared/RestShared.iml" />
     </modules>
   </component>
 </project>

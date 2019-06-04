@@ -1,0 +1,10 @@
+
+Csquid:S2068" Remove this hard-coded password.( ÂÂºıÿÿÿÿ8çüŒ–°-
+xsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äì„{8çüŒ–°-
+Isquid:S1168-"+Return an empty collection instead of null.(¥¹ï8çüŒ–°-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«Šªñıÿÿÿÿ8çüŒ–°-
+jsquid:S2095 "GUse try-with-resources or close this "ResultSet" in a "finally" clause.(åÁÚ¾ùÿÿÿÿ8çüŒ–°-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(î¨ßÃ8çüŒ–°-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÄóî8çüŒ–°-
+ksquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.( ÂÂºıÿÿÿÿ8çüŒ–°-
