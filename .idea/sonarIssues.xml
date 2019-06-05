@@ -8,12 +8,62 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../../Big-Idea/RestServer/pom.xml">
+        <entry key="$USER_HOME$/Big-Idea/RestServer/pom.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../../rest-and-websockets-starter-master/websocketserver/src/main/java/nl/fhict/s3/websocketserver/WebsocketServer.java">
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/LoginApi/src/main/java/dal/PlayerMemoryContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/communicatorserver/src/main/java/communicatorserver/CommunicatorServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/communicatorserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/dal/PlayerApiContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/logic/Interfaces/IPlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/logic/Player.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../UI/src/sample/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../UI/src/sample/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../UI/src/sample/sample.fxml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../rest-and-websockets-starter-master/websocketserver/src/main/java/nl/fhict/s3/websocketserver/WebsocketServer.java">
           <value>
             <set />
           </value>
@@ -363,52 +413,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/LoginApi/src/main/java/dal/PlayerMemoryContext.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/communicatorserver/src/main/java/communicatorserver/CommunicatorServer.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/communicatorserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/dal/PlayerApiContext.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/logic/Interfaces/IPlayer.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../SE/zeeslag/SeaBattle/seabattleserver/src/main/java/logic/Player.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../UI/src/sample/Controller.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../UI/src/sample/Main.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../UI/src/sample/sample.fxml">
+        <entry key="$USER_HOME$/rest-and-websockets-starter-master/websocketserver/src/main/java/nl/fhict/s3/websocketserver/WebsocketServer.java">
           <value>
             <set />
           </value>
