@@ -1,10 +1,3 @@
 
-Fsquid:S1181"%Catch Exception instead of Throwable.(’ğôãøÿÿÿÿ8Òşş²-
-csquid:UnusedPrivateMethod"9Remove this unused private "startWebSocketServer" method.(¢ÍŸ¢8¯¦‰²-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¡óíÚşÿÿÿÿ8Ï‘½²-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‹„ÔØ8øäö²-
-squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ÇáüŒ²-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯¡à¶8çÚ²-
+9squid:S3626'"Remove this redundant jump.(ûÁİ…8Øøğ»²-
+Hsquid:S1181&"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8É©î»²-
