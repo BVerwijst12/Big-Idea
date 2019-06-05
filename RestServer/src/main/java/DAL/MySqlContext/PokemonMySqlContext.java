@@ -2,8 +2,7 @@ package DAL.MySqlContext;
 
 import DAL.DbConfig;
 
-
-import java.Dto.PokemonDto;
+import Dto.*;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;

@@ -3,13 +3,11 @@ package RestApi;
 import DAL.MySqlContext.UserMySqlContext;
 import com.google.gson.Gson;
 
-import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
-import java.Requests.RegisterRequestDto;
-import java.Responses.RegisterResponseDto;
+import Requests.RegisterRequestDto;
+import Responses.RegisterResponseDto;
 
 import static spark.route.HttpMethod.*;
+import static spark.Spark.*;
 
 
 public class UserService {

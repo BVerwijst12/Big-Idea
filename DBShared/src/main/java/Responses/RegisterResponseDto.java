@@ -1,4 +1,4 @@
-package java.Responses;
+package Responses;
 
 public class RegisterResponseDto {
     private String username;

@@ -1,3 +1,5 @@
+package restServer;
+
 import RestApi.PokemonService;
 import RestApi.UserService;
 import spark.Spark;

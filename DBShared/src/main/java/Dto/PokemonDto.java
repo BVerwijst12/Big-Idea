@@ -1,4 +1,4 @@
-package java.Dto;
+package Dto;
 
 import java.util.ArrayList;
 

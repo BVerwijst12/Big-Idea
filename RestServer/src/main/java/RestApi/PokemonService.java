@@ -3,7 +3,7 @@ package RestApi;
 import DAL.MySqlContext.PokemonMySqlContext;
 import com.google.gson.Gson;
 
-import java.Dto.PokemonDto;
+import Dto.PokemonDto;
 import java.util.ArrayList;
 
 import static spark.Spark.*;
@@ -18,6 +18,7 @@ public class PokemonService {
     public PokemonService(){
         PokemonMySqlContext pokemonMySqlContext = new PokemonMySqlContext();
         get("/PokemonService/getAllPokemons", (request, response) -> {
+
             ArrayList<PokemonDto> allPokemons = pokemonMySqlContext.getAllPokemons();
             String output = gson.toJson(allPokemons);
             return output;

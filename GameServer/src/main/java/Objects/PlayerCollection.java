@@ -1,6 +1,6 @@
 package Objects;
 
-import java.Requests.RegisterRequestDto;
+import Requests.RegisterRequestDto;
 
 public class PlayerCollection {
 

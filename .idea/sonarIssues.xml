@@ -153,6 +153,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/DBShared/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/DBShared/src/main/java/Dto/PokemonDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/DBShared/src/main/java/Requests/RegisterRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/DBShared/src/main/java/Responses/RegisterResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/DBShared/src/main/java/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Domain/pom.xml">
           <value>
             <set />
@@ -224,6 +249,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/GameServer/src/main/java/GameService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GameServer/src/main/java/Objects/PlayerCollection.java">
           <value>
             <set />
           </value>
@@ -319,6 +349,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/RestServer/src/main/java/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RestServer/src/main/java/restServer/Server.java">
           <value>
             <set />
           </value>

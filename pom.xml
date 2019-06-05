@@ -17,6 +17,7 @@
         <module>Domain</module>
         <module>WebSocketServer</module>
         <module>WebSocketShared</module>
+        <module>DBShared</module>
     </modules>
 
     <properties>

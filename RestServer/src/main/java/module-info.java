@@ -3,5 +3,5 @@ module RestServer {
     requires java.sql;
     requires java.ws.rs;
     requires gson;
-    requires RestShared;
+    requires DBShared;
 }
