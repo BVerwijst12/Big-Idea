@@ -1,0 +1,15 @@
+
+usquid:S00116"QRename this field "TbName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ë¹ˆýÿÿÿÿ8žÁ·”²-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛŒ¦…ýÿÿÿÿ8°á©”²-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Žú—òúÿÿÿÿ8€¡é”²-
+psquid:S00116"RRename this field "BtLogin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÓß=8ƒ•·”²-
+Psquid:S1172"2Remove this unused method parameter "actionEvent".(ðÍØˆ8…È¯”²-
+‹"squid:ClassVariableVisibilityCheck"VMake TbPassword a static final constant or non-public and provide accessors if needed.(•¥ˆÝ8ôä·”²-
+csquid:UselessImportCheck"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ8¼Þç”²-
+tsquid:S00116"URename this field "TbPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¥ˆÝ8ôä·”²-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÍØˆ8Êè®”²-
+esquid:UselessImportCheck"5Remove this unused import 'javafx.scene.layout.Pane'.(êÄƒÄþÿÿÿÿ8¼Þç”²-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(•Œùôüÿÿÿÿ8…È¯”²-
+‡"squid:ClassVariableVisibilityCheck"SMake BtLogin a static final constant or non-public and provide accessors if needed.(þÓß=8ƒ•·”²-
+Œ"squid:ClassVariableVisibilityCheck"RMake TbName a static final constant or non-public and provide accessors if needed.(‚ë¹ˆýÿÿÿÿ8žÁ·”²-

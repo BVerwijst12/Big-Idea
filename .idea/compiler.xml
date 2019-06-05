@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="WebSocketServer" />
         <module name="GameServer" />
         <module name="Application" />
         <module name="WebSocketShared" />
-        <module name="WebSocketServer" />
         <module name="RestServer" />
       </profile>
       <profile name="Annotation profile for Big Idea Pokemon Battle simulator" enabled="true">
