@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea29463-7e46-4cb5-b6b8-245b305b0196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DBShared/DBShared.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBShared/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameServer/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/classes/sample/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Application/target/classes/sample/GameController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/classes/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Application/target/classes/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameServer/GameServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer/GameServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameServer/src/main/java/Objects/PlayerCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer/src/main/java/Objects/PlayerCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestServer/src/main/java/DAL/MySqlContext/PokemonMySqlContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/src/main/java/DAL/MySqlContext/PokemonMySqlContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestServer/src/main/java/RestApi/PokemonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/src/main/java/RestApi/PokemonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestServer/src/main/java/RestApi/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/src/main/java/RestApi/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestServer/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/src/main/java/restServer/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestServer/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestServer/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestShared/RestShared.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestShared/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DBShared/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestShared/src/main/java/Dto/PokemonDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/DBShared/src/main/java/Dto/PokemonDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestShared/src/main/java/Requests/RegisterRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/DBShared/src/main/java/Requests/RegisterRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestShared/src/main/java/Responses/RegisterResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/DBShared/src/main/java/Responses/RegisterResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestShared/src/main/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBShared/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/DBShared/src/main/java/module-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/WebSocketServer/target/" />
@@ -69,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RestServer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+            <state relative-caret-position="369">
+              <caret line="70" column="34" lean-forward="true" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -145,72 +122,13 @@
             <path>
               <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="GameServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Objects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigIdeaPokemonBattlesimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Big-Idea" type="462c0819:PsiDirectoryNode" />
-              <item name="RestServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="restServer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,16 +193,15 @@
       <updated>1559735287867</updated>
       <workItem from="1559735289157" duration="1917000" />
       <workItem from="1559744151429" duration="405000" />
-      <workItem from="1559744581735" duration="921000" />
+      <workItem from="1559744581735" duration="1089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3243000" />
+    <option name="totallyTimeSpent" value="3411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17181209" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -295,7 +212,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RestServer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+        <state relative-caret-position="369">
+          <caret line="70" column="34" lean-forward="true" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
         </state>
       </provider>
     </entry>

@@ -1,2 +1,5 @@
-module $MODULE_NAME$ {
+module DBShared {
+    exports Dto;
+    exports Requests;
+    exports Responses;
 }
