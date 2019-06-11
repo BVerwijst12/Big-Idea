@@ -21,14 +21,8 @@ d
 4RestServer/src/main/java/RestApi/PokemonService.java,c\c\cc2496a6e5fcfa6894ad6b0796e6c4ab0dcc2474
 a
 1RestServer/src/main/java/RestApi/UserService.java,0\a\0a12e7ab9c5a7aef20f121e8c30761c560284dc9
-T
-$RestServer/src/main/java/Server.java,7\3\738a2aa6eed9617ae3897d71527766091536a024
 Z
 *RestServer/src/main/java/DAL/DbConfig.java,e\a\eaef193dd1bdf546f8a8277b1ecf560b978b6ffc
-k
-;RestShared/src/main/java/Responses/RegisterResponseDto.java,6\c\6cf99d1ad07bc42cab49c60f027672696799b8e5
-T
-$RestShared/src/main/module-info.java,a\a\aa54ab5b02b5426c83896d2018e005197b3acd7e
 G
 WebSocketShared/pom.xml,2\6\264ccd27278aff01d1e7f0a2d0f4cb6e29a48c1a
 s

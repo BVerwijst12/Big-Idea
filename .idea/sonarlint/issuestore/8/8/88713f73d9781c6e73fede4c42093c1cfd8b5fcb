@@ -1,9 +1,9 @@
 
 [
 squid:S1064"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8şÏÒ¿²-
-nsquid:S1301>"KReplace this "switch" statement by "if" statements to increase readability.(‰Ë°øÿÿÿÿ8—á¿²-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( «Ş
-Qsquid:S1172,".Remove this unused method parameter "session".(Œö…íüÿÿÿÿ8 õ»²-
-¤squid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ééø¦üÿÿÿÿ8ÂŒõ»²-
 esquid:S22597"GA "NullPointerException" could be thrown; "wsMessage" is nullable here.(Ùâ“8ôúÖ¿²-
 isquid:S1301:"KReplace this "switch" statement by "if" statements to increase readability.(ìè²ë8—á¿²-
+nsquid:S1301>"KReplace this "switch" statement by "if" statements to increase readability.(‰Ë°øÿÿÿÿ8—á¿²-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( «Ş
+¤squid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ééø¦üÿÿÿÿ8ÂŒõ»²-
+Qsquid:S1172,".Remove this unused method parameter "session".(Œö…íüÿÿÿÿ8 õ»²-
